@@ -1,0 +1,519 @@
+div
+{
+	width:500px;
+	margin: 0 auto;
+}
+body
+{
+	font-family: sans-serif;
+
+}
+/*layout-1 start*/
+#wrapper1
+{
+	border: solid gray;
+	padding: 10px;
+}
+#body21
+{
+	text-align: center;
+	text-decoration: underline;
+    overflow: hidden;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+#logo1
+{
+	/*text-align: center;*/
+	text-decoration: underline;
+	background-color: lightgray;
+	min-height: 45px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#nav1
+{
+	text-align: center;
+	text-decoration: underline;
+	background-color: lightgray;
+	min-height: 35px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#header1{
+	text-align: center;
+	text-decoration: underline;
+	background-color: lightgray;
+	min-height: 60px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#body1
+{
+	text-align: center;
+	text-decoration: underline;
+    overflow: hidden;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+#sidebar1
+{
+	text-align: center;
+	text-decoration: underline;
+    background-color: lightgray;
+    min-height: 200px;
+    width:28%; 
+    float:left;
+    margin-left: 0px;
+}
+#bodyarea1
+{
+	text-align: center;
+	text-decoration: underline;
+    background-color: lightgray;
+    min-height: 200px;
+    width:70%;
+    margin-right: 0px;
+}
+#footer1
+{
+	text-align: center;
+	text-decoration: underline;
+	background-color: lightgray;
+	min-height: 25px;
+	width:100%;
+}
+
+/*layout2 start*/
+div
+{
+	width:500px;
+	margin: 0 auto;
+}
+#wrapper2
+{
+	border: solid gray;
+	padding: 10px;
+}
+#body21
+{
+	font-family: sans-serif;
+
+}
+#logo2
+{
+	/*text-align: center;*/
+	text-decoration: underline;
+	background-color: lightgray;
+	min-height: 45px;
+	margin-left: 0px;
+	margin-bottom: 10px;
+	width:30%;
+}
+#nav2
+{
+	text-align: center;
+	text-decoration: underline;
+	background-color: lightgray;
+	min-height: 45px;
+	margin-right: 0px;
+	margin-top: -55px;
+	width:70%;
+}
+#header2{
+	text-align: center;
+	text-decoration: underline;
+	background-color: lightgray;
+	min-height: 60px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#text2
+{
+	text-align: center;
+	text-decoration: underline;
+	background-color: lightgray;
+	background-color: lightgray;
+	min-height: 70px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+
+}
+#body22
+{
+	text-align: center;
+	text-decoration: underline;
+    overflow: hidden;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+#box1
+{
+	text-align: center;
+	text-decoration: underline;
+    background-color: lightgray;
+    min-height: 200px;
+    width:32%; 
+    /*float:left;*/
+    /*margin-right: 15px;*/
+}
+#box2
+{
+	text-align: center;
+	text-decoration: underline;
+    background-color: lightgray;
+    min-height: 200px;
+    width:32%; 
+    float:left;
+    margin-right: 10px ;
+}
+#box3
+{
+	text-align: center;
+	text-decoration: underline;
+    background-color: lightgray;
+    min-height: 200px;
+    width:32%;
+    margin-right: 0px;
+}
+#footer2
+{
+	text-align: center;
+	text-decoration: underline;
+	background-color: lightgray;
+	min-height: 25px;
+	width:100%;
+}
+
+
+/*layout-3 start*/
+div
+{
+	width:500px;
+	margin: 0 auto;
+}
+body
+{
+	font-family: sans-serif;
+
+}
+#wrapper3
+{
+	border: solid gray;
+	padding: 10px;
+}
+#logo3
+{
+	/*text-align: center;*/
+	text-decoration: underline;
+	background-color: lightgray;
+	min-height: 45px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#body3
+{
+	text-align: center;
+	text-decoration: underline;
+    overflow: hidden;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+#header3{
+	text-align: center;
+	text-decoration: underline;
+	background-color: lightgray;
+	min-height: 60px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	width: 70%;
+}
+#sidebar3
+{
+	text-align: center;
+	text-decoration: underline;
+    background-color: ;
+    min-height: 270px;
+    width:28%; 
+    float:left;
+    margin-left: 0px;
+    margin-top: -70px;
+}
+#bodyarea3
+{
+	text-align: center;
+	text-decoration: underline;
+    background-color: lightgray;
+    min-height: 200px;
+    width:70%;
+    margin-right: 0px;
+}
+#footer3
+{
+	text-align: center;
+	text-decoration: underline;
+	background-color: lightgray;
+	min-height: 25px;
+	width:100%;
+	margin-top: 10px;
+}
+
+
+/*layout-4 start*/
+div
+{
+	width:500px;
+	margin: 0 auto;
+}
+#wrapper4
+{
+	border: solid gray;
+	padding: 10px;
+}
+#body41
+{
+	font-family: sans-serif;
+
+}
+#logo4
+{
+	/*text-align: center;*/
+	text-decoration: underline;
+	background-color: lightgray;
+	min-height: 45px;
+	margin-left: 0px;
+	margin-bottom: 10px;
+	width:30%;
+}
+#nav4
+{
+	text-align: center;
+	text-decoration: underline;
+	background-color: lightgray;
+	min-height: 45px;
+	margin-right: 0px;
+	margin-top: -55px;
+	width:70%;
+}
+#body43
+{
+	text-align: center;
+	text-decoration: underline;
+    overflow: hidden;
+}
+
+#bx421
+{
+	text-align: center;
+	text-decoration: underline;
+    background-color: lightgray;
+    min-height: 80px;
+    width:23%; 
+    float:left;
+    margin-top: 0px;
+
+}
+#bx422
+{
+    text-align: center;
+	text-decoration: underline;
+    background-color: lightgray;
+    min-height: 80px;
+    width:23%; 
+    margin-left: 128px;
+    margin-top: 10px;
+
+}
+#bx423
+{
+    text-align: center;
+	text-decoration: underline;
+    background-color: lightgray;
+    min-height: 80px;
+    width:23%; 
+    margin-right: 128px;
+    margin-top: -80px;
+
+}
+#bx424
+{
+    text-align: center;
+	text-decoration: underline;
+    background-color: lightgray;
+    min-height: 80px;
+    width:23%; 
+    float:right;
+    margin-top: -80px;
+
+}
+#bx425
+{
+	text-align: center;
+	text-decoration: underline;
+    background-color: lightgray;
+    min-height: 80px;
+    width:23%; 
+    float:left;
+    margin-top: 10px;
+
+}
+#bx426
+{
+    text-align: center;
+	text-decoration: underline;
+    background-color: lightgray;
+    min-height: 80px;
+    width:23%; 
+    margin-left: 128px;
+    margin-top: 10px;
+
+}
+#bx427
+{
+    text-align: center;
+	text-decoration: underline;
+    background-color: lightgray;
+    min-height: 80px;
+    width:23%; 
+    margin-right: 128px;
+    margin-top: -80px;
+
+}
+#bx428
+{
+    text-align: center;
+	text-decoration: underline;
+    background-color: lightgray;
+    min-height: 80px;
+    width:23%;
+    float:right;
+    margin-top: -80px;
+
+}
+#bx429
+{
+	text-align: center;
+	text-decoration: underline;
+    background-color: lightgray;
+    min-height: 80px;
+    width:23%; 
+    float:left;
+    margin-top: 10px;
+
+}
+#bx4210
+{
+    text-align: center;
+	text-decoration: underline;
+    background-color: lightgray;
+    min-height: 80px;
+    width:23%; 
+    margin-left: 128px;
+    margin-top: 10px;
+
+}
+#bx4211
+{
+    text-align: center;
+	text-decoration: underline;
+    background-color: lightgray;
+    min-height: 80px;
+    width:23%; 
+    margin-right: 128px;
+    margin-top: -80px;
+
+}
+#bx4212
+{
+    text-align: center;
+	text-decoration: underline;
+    background-color: lightgray;
+    min-height: 80px;
+    width:23%; 
+    float:right;
+    margin-top: -80px;
+
+}
+#bx4213
+{
+	text-align: center;
+	text-decoration: underline;
+    background-color: lightgray;
+    min-height: 80px;
+    width:23%; 
+    float:left;
+    margin-top: 10px;
+
+}
+#bx4214
+{
+    text-align: center;
+	text-decoration: underline;
+    background-color: lightgray;
+    min-height: 80px;
+    width:23%; 
+    margin-left: 128px;
+    margin-top: 10px;
+
+}
+#bx4215
+{
+    text-align: center;
+	text-decoration: underline;
+    background-color: lightgray;
+    min-height: 80px;
+    width:23%;
+    margin-right: 128px;
+    margin-top: -80px;
+
+}
+#bx4216
+{
+    text-align: center;
+	text-decoration: underline;
+    background-color: lightgray;
+    min-height: 80px;
+    width:23%; 
+    float:right;
+    margin-top: -80px;
+
+}
+
+#box431
+{
+	text-align: center;
+	text-decoration: underline;
+    background-color: lightgray;
+    min-height: 100px;
+    width:32%; 
+    float:left;
+    margin-top: 10px;
+}
+#box432
+{
+	text-align: center;
+	text-decoration: underline;
+    background-color: lightgray;
+    min-height: 100px;
+    width:32%; 
+    margin-top: 10px;
+}
+#box433
+{
+	text-align: center;
+	text-decoration: underline;
+    background-color: lightgray;
+    min-height: 100px;
+    width:32%;
+    float:right;
+    margin-top: -100px;
+}
+#footer4
+{
+	text-align: center;
+	text-decoration: underline;
+	background-color: lightgray;
+	min-height: 25px;
+	width:100%;
+	margin-top: 10px;
+}
